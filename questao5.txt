@@ -1,0 +1,9 @@
+
+Primeiro, vamos nomear os interruptores de A, B e C para facilitar a organização do pensamento.
+O primeiro passo é ligar o interruptor A e deixá-lo ligado por cerca de dez minutos. Esse tempo é fundamental, pois vai aquecer a lâmpada que ele controla.
+Após esse intervalo, desligamos o interruptor A e ligamos o interruptor B, enquanto o interruptor C continua desligado.
+
+Agora, é hora de ir até a sala onde as lâmpadas estão. Ao entrar, três situações podem ser observadas.
+Se uma lâmpada estiver acesa, isso significa que ela é controlada pelo interruptor B, já que foi o último que ligamos.
+Caso a lâmpada esteja apagada, mas ainda aquecida ao toque, sabemos que ela pertence ao interruptor A, que estava ligado anteriormente.
+Por fim, se encontrarmos uma lâmpada apagada e fria, podemos concluir que ela é controlada pelo interruptor C, que nunca foi ligado.
